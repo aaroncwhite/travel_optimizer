@@ -11,4 +11,4 @@ The code does the following:
 The resulting code could easily be adapted to other similar situations or applied at a larger scale.
 (Google APIs limit the number of elements per call on the API.)
 
-This is one of the first R scripts I pulled together, and one that I am still very proud of. 
+This is one of the first R scripts I pulled together, and one that I am still very proud of. See the PDF for a description of how it works. 
